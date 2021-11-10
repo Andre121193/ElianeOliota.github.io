@@ -22,11 +22,11 @@ O aplicativo poderá ser utilizado como passaporte imunização caso o usuario i
 
 Projeto (Block-Covid-19) poderá ser Site ou App
 
-- Caso site: projeto do Site pode ser desenvolvido com HTML, CSS e JavaScrip. O Site terá um layout responsivo com caracteristicas mobile
+- Caso site: projeto do Site pode ser desenvolvido com HTML, CSS e JavaScript. O Site terá um layout responsivo com caracteristicas mobile
 - IDE - Visual Studio Code
 - [Ver template HTML](https://elianeoliota.github.io/login.html)
 
-- Caso App - projeto do App pode ser desenvolvido com JAVA, XLM . O aplicativo será desenvolvido para a plataforma Android
+- Caso App - projeto do App pode ser desenvolvido com JAVA, XLM. O aplicativo será desenvolvido para a plataforma Android
 - IDE - Android Studio
 - [Ver template APP](https://elianeoliota.github.io/doc/BlockCovid-19.mp4)
 
@@ -74,7 +74,7 @@ Tela inicial que agrega as principais funções e resumo de informações import
 
 - Menu superior
     - Nome do sistema
-    - Dados do usuario
+    - Dados do usuário
     - Botão de sair
 
 
@@ -85,15 +85,15 @@ Tela inicial que agrega as principais funções e resumo de informações import
     - Ver mapa de exposição
 
 - Conteudo principal
-    - Na página inicial tem uma descrição como utilizar o sistema<
+    - Na página inicial tem uma descrição de como utilizar o sistema
     - Os menus laterais terão seu conteudo apresentado na parte central da
 página
 
 ## Dicas de Prevenção a COVID-19
-O usuário poderá informar acompanhar dicas para prevenção a COVID-19
+O usuário poderá acompanhar dicas para a prevenção da COVID-19.
 
 ## Reportar exposição
-Quando o usuário for contaminado, poderá informar para monitorar sua localização de forma anônima durante a quarentena
+Quando o usuário for contaminado, poderá informar sua localização para monitoramento de, forma anônima, durante a quarentena.
 
 ## Mapear risco atual
 Verificar se nas proximidades há risco de contágio com base nas localizações compartilhadas.
