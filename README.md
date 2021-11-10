@@ -93,7 +93,7 @@ página
 O usuário poderá acompanhar dicas para a prevenção da COVID-19.
 
 ## Reportar exposição
-Quando o usuário for contaminado, poderá informar sua localização para monitoramento de, forma anônima, durante a quarentena.
+Quando o usuário for contaminado, poderá informar sua localização para monitoramento, de forma anônima, durante a quarentena.
 
 ## Mapear risco atual
 Verificar se nas proximidades há risco de contágio com base nas localizações compartilhadas.
